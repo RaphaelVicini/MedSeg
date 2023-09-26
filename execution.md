@@ -30,5 +30,24 @@ Users should enter their username and password to access MedSeg.
 
 - You can put many images at the same time
 
-<img src="./pictures/img_upload_img.png" alt="Example Image" width="1500" height="300"/>
+## Image Upload Example
+
+Below are the steps and visual examples for uploading images and their corresponding masks:
+
+1. **Uploading Your First Image**:  
+   Ensure that the image has the correct name and extension.  
+   ![Upload Image](./pictures/img_upload_img.png)
+
+2. **Verifying the Image Upload**:  
+   On your dashboard, you should be able to see that the image has been added successfully.  
+   ![Verify Image Upload](./pictures/img_upload_img2.png)
+
+3. **Adding the Corresponding Mask**:  
+   The mask should have the same name as the image but with a `msk` prefix.  
+   ![Upload Mask](./pictures/img_upload_mask.png)
+
+4. **Mask Upload Verification**:  
+   A small downward arrow (v) in the segmentation column indicates that the mask has been uploaded correctly for the corresponding image.  
+   ![Verify Mask Upload](./pictures/img_upload_mask2.png)
+
 
