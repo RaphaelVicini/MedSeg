@@ -10,13 +10,12 @@ First, users should copy the contents of the USB key to their Desktop. This will
 # 📘 MedSeg Step-by-Step User Workflow
 
 1. 🚫 The [setup](setup.md) will be handled by an IT specialist, so you can skip this step.
-2. 🖱️[here](execution.md#Execution) Simply click to run `medseg_exe.py`.
+2. 🖱️Simply click to run `medseg_exe.py`. [Link Text](execution.md#Execution) 
 
 ## 🔍 Inside MedSeg
 
-3. 🔑 Connection
+3. 🔑 Connection [Link Text](execution.md#connection)
 4. 🆕 Create a new project and upload your initial images.[Link Text](execution.md#creating-a-new-project)
-
 5. 🛠️ Build your own model.
 6. 📈 Use your model for inference.
 7. 🔄 Employ transfer learning to fine-tune an existing model.
