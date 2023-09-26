@@ -10,11 +10,11 @@ To train a model, you need to first prepare your dataset by categorizing the ima
     ![Set as Training Data](./pictures/rename_1_train.png)
 
 3. **Setting Training Data**:  
-   To designate an image for the training set, rename the "1" to "train."  
+   To designate an image for the training set, rename the "1" to "train."  with right click
   
 
 4. **Setting Validation Data**:  
-   For the validation set, rename the "1" to "validate."
+   For the validation set, rename the "1" to "validate."with right click
 
 5. **Visual Confirmation**:  
    Once categorized, images set for training will turn green, while those for validation will turn orange.  
