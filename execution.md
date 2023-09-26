@@ -26,7 +26,8 @@ Users should enter their username and password to access MedSeg.
   
   "MYIMAGE" can be replaced with any desired name, but ensure the identifier remains consistent between an image and its corresponding mask.
   
-- Files must be in the `.nii.gz` extension.
+- Files must be in the `.nii.gz` extension. (nifti format)
 
+- You can put many images at the same time
 
 
