@@ -7,5 +7,5 @@ the validation set you have to rename it validate
 
 
 once it is renamed, the train image will be in green and the validate one will be in orange. 
-![train set in green ](./pictures/rename_1_train1.png)
+![train set in green ](./pictures/rename_1_train2.png)
 You have splitted your dataset !
