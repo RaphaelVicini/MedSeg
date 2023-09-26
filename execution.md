@@ -30,5 +30,5 @@ Users should enter their username and password to access MedSeg.
 
 - You can put many images at the same time
 
-<img src="./pictures/img_upload_img.png" alt="Example Image" width="1500" height="300"/>
+<img src="./pictures/img_upload_img.png" alt="Example Image" width="1500" height="150"/>
 
