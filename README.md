@@ -9,7 +9,7 @@ First, users should copy the contents of the USB key to their Desktop. This will
 
 # 📘 MedSeg Step-by-Step User Workflow
 
-1. 🚫 The [setup](MedSeg/setup.md) will be handled by an IT specialist, so you can skip this step.
+1. 🚫 The [setup](setup.md) will be handled by an IT specialist, so you can skip this step.
 2. 🖱️[](MedSeg/execution.md#) Simply click to run `medseg_exe.py`.
 
 ## 🔍 Inside MedSeg
