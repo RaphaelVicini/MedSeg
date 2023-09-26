@@ -1,11 +1,17 @@
-Setup of the app
+# Setup of the App
 
-The setup will normaly be made by a informatician that knows how terminal and informatic stuff works, this section will not be made for medecins.
+This setup is typically performed by an IT specialist familiar with terminal operations and technical procedures; this section is not intended for medical professionals.
 
-Firstly in the medseg_main folder you have to run the setup.py with this command:
-'''bash
-PATH_TO_medseg_main python3 setup.py
-'''
+1. Navigate to the `medseg_main` folder.
+2. Run the `setup.py` script with the following command:
 
-once it is executed,  the IP adress of the servor will be added in some files 'paramters.json' and 'config.js' to be used in other functionnalities. After that the 
-different docker images will be loaded on the new machine. 
+```bash
+   cd PATH_TO_medseg_main
+   python3 setup.py
+
+```
+
+Upon execution:
+
+- The server's IP address will be added to the parameters.json and config.js files for use in other functionalities.
+- The various Docker images will be loaded onto the new machine.
