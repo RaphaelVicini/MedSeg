@@ -15,7 +15,8 @@ First, users should copy the contents of the USB key to their Desktop. This will
 ## 🔍 Inside MedSeg
 
 3. 🔑 Connection
-4. 🆕 Create a new project and upload your initial images.[here](execution.md#Creating a New Project) 
+4. 🆕 Create a new project and upload your initial images.[Link Text](execution.md#creating-a-new-project)
+
 5. 🛠️ Build your own model.
 6. 📈 Use your model for inference.
 7. 🔄 Employ transfer learning to fine-tune an existing model.
