@@ -21,7 +21,7 @@ To train a model, you need to first prepare your dataset by categorizing the ima
    ![Training Data in Green](./pictures/rename_1_train2.png)
 
 ### An Additional Category: Upsampling
-By categorizing the mask as "upsampling," users can access further functionality.
+By categorizing the mask as "upsampling", users can access further functionality.[see here](upsampling.md)
 
 
 
