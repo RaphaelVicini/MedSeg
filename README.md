@@ -19,6 +19,6 @@ First, users should copy the contents of the USB key to their Desktop. This will
 5. 🛠️ Build your own model.
 6. 📈 Use your model for inference.
 7. 🔄 Employ transfer learning to fine-tune an existing model.
-8. 🔍 Use upsampling for enhanced accuracy. [Link Text](execution.md#upsampling)
+8. 🔍 Use upsampling for enhanced accuracy. [Link Text](upsampling)
 
 If there is a problem just close and rerun 'med_exe.py' everything will be restarted but you will not loose any informations or data.
