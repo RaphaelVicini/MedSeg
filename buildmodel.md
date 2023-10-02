@@ -33,7 +33,7 @@ Subsequently, various parameters need to be adjusted to best fit the dataset and
 
 
 
-### An Additional Category: Upsampling
+# An Additional Category: Upsampling
 By categorizing the mask as "upsampling", users can access further functionality. [see here](upsampling.md)
 
 
