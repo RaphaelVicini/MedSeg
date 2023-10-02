@@ -9,3 +9,4 @@ To employ transfer learning:
 3. The name of the new training session must match the original model's name. This signals the script to use the existing model, incorporate the new images, and enhance it.
 
 After the training concludes, the updated model will be named in the format: 'MODELNAME_TL_v1' (TL=TransferLearning). If you opt for transfer learning on 'MODELNAME_TL_v1', then name the next trained model similarly. It will subsequently generate a model named 'MODELNAME_TL_v2', and so on.
+
