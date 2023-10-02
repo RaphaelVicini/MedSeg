@@ -23,6 +23,16 @@ To train a model, you need to first prepare your dataset by categorizing the ima
    
    ![Training Data in Green](./pictures/rename_1_train2.png)
 
+# Train Data
+
+After uploading all necessary data to the project, users can initiate the training process by clicking on the 'train model' button. Users have the option to select between training a 2D or 3D model. Opting for 3D is recommended if the dataset contains image slices. 
+
+Subsequently, various parameters need to be adjusted to best fit the dataset and to determine the desired training duration. A larger dataset and longer training time typically lead to a more accurate model. The training process will utilize all images and masks that have been labeled as 'train' or 'validate' by the user.
+
+
+
+
+
 ### An Additional Category: Upsampling
 By categorizing the mask as "upsampling", users can access further functionality. [see here](upsampling.md)
 
