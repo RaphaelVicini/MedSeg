@@ -22,6 +22,7 @@ To train a model, you need to first prepare your dataset by categorizing the ima
 
    
    ![Training Data in Green](./pictures/rename_1_train2.png)
+Congratulations! You've successfully partitioned your dataset into training and validation sets.
 
 # Train Data
 
@@ -38,4 +39,4 @@ By categorizing the mask as "upsampling", users can access further functionality
 
 
 
-Congratulations! You've successfully partitioned your dataset into training and validation sets.
+
