@@ -12,3 +12,7 @@ The primary objective of this upsampling is to enable users to magnify a section
 - Upscaled images will be named incorporating both the label number used and the SeriesUID of the original image, following this pattern: `CroppedUp-Label_1-From_SeriesUID`.
 
 - The images produced post-upsampling users can either employ the MedSeg tool to segment and potentially create a model specifically for the upscaled images.
+
+## Run the Upsampling
+
+To initiate the upsampling process, users simply need to double-click on the image. If the mask is categorized as "upsampling", the upscaling will automatically commence. After a few seconds, the upscaled images will be generated.
