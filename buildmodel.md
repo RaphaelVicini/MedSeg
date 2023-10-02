@@ -22,6 +22,7 @@ To train a model, you need to first prepare your dataset by categorizing the ima
 
    
    ![Training Data in Green](./pictures/rename_1_train2.png)
+   ![Validate Data in Orange](./pictures/rename_1_validate.png)
 Congratulations! You've successfully partitioned your dataset into training and validation sets.
 
 # Train Data
