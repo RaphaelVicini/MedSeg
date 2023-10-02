@@ -45,8 +45,9 @@ Below are the steps and visual examples for uploading images and their correspon
 3. **Adding the Corresponding Mask**:  
    The mask should have the same name as the image but with a `msk` prefix.  
    ![Upload Mask](./pictures/img_upload_mask.png)
+   Users can upload both the image and its mask simultaneously. When uploading, users can categorize the mask as 'train', 'validate', or 'upsampling'. If not     specified, the mask will default to '1', but it can be renamed later.
 
-4. **Mask Upload Verification**:  
+5. **Mask Upload Verification**:  
    A small downward arrow (v) in the segmentation column indicates that the mask has been uploaded correctly for the corresponding image.  
    ![Verify Mask Upload](./pictures/img_upload_mask2.png)
 
