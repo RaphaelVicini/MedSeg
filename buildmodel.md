@@ -20,4 +20,9 @@ To train a model, you need to first prepare your dataset by categorizing the ima
    Once categorized, images set for training will turn green, while those for validation will turn orange.  
    ![Training Data in Green](./pictures/rename_1_train2.png)
 
+### An Additional Category: Upsampling
+By categorizing the mask as "upsampling," users can access further functionality.
+
+
+
 Congratulations! You've successfully partitioned your dataset into training and validation sets.
