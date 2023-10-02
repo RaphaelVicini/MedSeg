@@ -1,6 +1,6 @@
 # Building the Model
 
-To train a model, you need to first prepare your dataset by categorizing the images and their corresponding masks. If the mask name isn't chosed in the uploading step, the user can rename it (if needed) by following those instructions.
+To train a model, you need to first prepare your dataset by categorizing the images and their corresponding masks. If the mask name isn't chosen during the uploading step, the user can rename it (if needed) by following these instructions.
 
 ## Categorizing Your Data:
 
