@@ -8,4 +8,4 @@ To employ transfer learning:
 2. Click the 'train model' button and ensure the parameters match those of the model you wish to refine.
 3. The name of the new training session must match the original model's name. This signals the script to utilize the existing model, incorporate the new images, and enhance it.
 
-After the training concludes, the updated model will be named in the format: 'MODEL_NAME_TL_v1'. If you opt for transfer learning on 'MODEL_NAME_TL_v1', then name the next trained model similarly. It will subsequently generate a model named 'MODEL_NAME_TL_v2', and so on.
+After the training concludes, the updated model will be named in the format: 'MODELNAME_TL_v1'. If you opt for transfer learning on 'MODEL_NAME_TL_v1', then name the next trained model similarly. It will subsequently generate a model named 'MODELNAME_TL_v2', and so on.
