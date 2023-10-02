@@ -1,6 +1,6 @@
 # Transfer Learning
 
-Transfer learning enables the refinement of an existing model. For instance, if a user trained their model with 10 images and wishes to include an additional 5 cases, there's no need to retrain an entirely new model from scratch. 
+Transfer learning enables the fine tunning of an existing model. For instance, if a user trained their model with 10 images and wishes to include an additional 5 cases, there's no need to retrain an entirely new model from scratch. 
 
 To employ transfer learning:
 
